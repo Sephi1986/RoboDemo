@@ -1,0 +1,1959 @@
+okt. 16, 2024 2:35:23 P.M. hudson.remoting.Launcher createEngine
+INFO: Setting up agent: Test
+okt. 16, 2024 2:35:23 P.M. hudson.remoting.Engine startEngine
+INFO: Using Remoting version: 3248.3250.v3277a_8e88c9b_
+okt. 16, 2024 2:35:23 P.M. org.jenkinsci.remoting.engine.WorkDirManager initializeWorkDir
+INFO: Using D:\Repository\PlayWright\remoting as a remoting work directory
+okt. 16, 2024 2:35:23 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 2:35:23 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 2:35:33 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 2:35:33 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 2:35:43 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 2:35:43 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 2:35:53 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 2:35:53 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 2:36:03 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 2:36:03 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 2:36:13 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 2:36:13 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 2:36:23 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 2:36:23 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 2:36:33 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 2:36:33 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 2:36:43 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 2:36:43 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 2:36:53 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 2:36:53 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 2:37:03 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 2:37:03 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 2:37:13 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 2:37:13 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 2:37:23 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 2:37:23 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 2:37:33 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 2:37:33 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 2:37:43 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 2:37:43 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 2:37:53 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 2:37:53 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 2:38:03 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 2:38:03 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 2:38:13 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 2:38:13 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 2:38:23 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 2:38:23 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 2:38:33 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 2:38:33 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 2:38:43 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 2:38:43 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 2:38:53 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 2:38:53 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 2:39:03 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 2:39:03 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 2:39:13 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 2:39:13 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 2:39:23 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 2:39:23 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 2:39:33 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 2:39:33 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 2:39:43 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 2:39:43 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 2:39:53 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 2:39:53 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 2:40:03 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 2:40:03 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 2:40:13 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 2:40:13 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 2:40:23 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 2:40:23 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 2:40:33 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 2:40:33 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 2:40:43 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 2:40:43 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 2:40:53 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 2:40:53 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 2:41:03 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 2:41:03 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 2:41:13 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 2:41:13 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 2:41:23 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 2:41:23 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 2:41:33 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 2:41:33 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 2:41:43 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 2:41:43 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 2:41:53 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 2:41:53 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 2:42:03 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 2:42:03 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 2:42:13 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 2:42:13 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 2:42:23 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 2:42:23 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 2:42:33 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 2:42:33 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 2:42:43 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 2:42:43 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 2:42:53 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 2:42:53 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 2:43:03 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 2:43:03 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 2:43:13 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 2:43:13 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 2:43:23 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 2:43:23 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 2:43:33 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 2:43:33 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 2:43:43 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 2:43:43 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 2:43:53 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 2:43:53 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 2:44:03 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 2:44:03 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 2:44:13 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 2:44:13 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 503 Service Unavailable
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 2:44:24 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 2:44:27 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 503 Service Unavailable
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 2:44:37 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 2:44:38 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 2:44:48 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 2:44:48 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 2:44:58 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 2:44:58 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 2:45:08 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 2:45:08 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 2:45:18 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 2:45:18 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 2:45:28 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 2:45:28 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 2:45:38 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 2:45:38 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 2:45:48 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 2:45:48 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 2:45:58 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 2:45:58 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 2:46:08 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 2:46:08 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 2:46:18 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 2:46:18 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 2:46:28 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 2:46:28 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 2:46:38 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 2:46:38 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 2:46:48 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 2:46:48 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 2:46:58 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 2:46:58 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 2:47:08 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 2:47:08 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 2:47:18 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 2:47:18 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 2:47:28 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 2:47:28 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 2:47:38 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 2:47:38 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 2:47:48 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 2:47:48 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 2:47:58 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 2:47:58 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 2:48:08 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 2:48:08 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 2:48:18 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 2:48:18 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 2:48:28 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 2:48:28 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 2:48:38 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 2:48:38 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 2:48:48 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 2:48:48 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 2:48:58 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 2:48:58 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 2:49:08 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 2:49:08 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 2:49:18 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 2:49:18 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 2:49:28 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 2:49:28 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 2:49:38 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 2:49:38 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 2:49:48 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 2:49:48 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 2:49:58 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 2:49:58 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 2:50:08 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 2:50:08 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 2:50:18 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 2:50:18 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 2:50:28 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 2:50:28 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 2:50:38 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 2:50:38 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 2:50:48 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 2:50:48 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 2:50:58 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 2:50:58 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 2:51:08 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 2:51:08 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 2:51:18 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 2:51:18 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 2:51:28 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 2:51:28 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 2:51:38 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 2:51:38 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 2:51:48 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 2:51:48 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 2:51:58 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 2:51:58 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 2:52:08 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 2:52:08 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 2:52:18 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 2:52:18 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 2:52:28 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 2:52:28 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 2:52:38 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 2:52:38 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 2:52:48 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 2:52:48 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 2:52:58 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 2:52:58 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 2:53:08 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 2:53:08 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 2:53:18 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 2:53:18 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 2:53:28 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 2:53:28 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 2:53:38 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 2:53:38 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 2:53:48 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 2:53:48 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 2:53:58 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 2:53:58 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 2:54:08 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 2:54:08 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 2:54:18 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 2:54:19 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 2:54:29 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 2:54:29 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 2:54:39 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 2:54:39 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 2:54:49 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 2:54:49 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 2:54:59 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 2:54:59 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 2:55:09 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 2:55:09 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 2:55:19 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 2:55:19 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 2:55:29 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 2:55:29 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 2:55:39 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 2:55:39 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 2:55:49 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 2:55:49 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 2:55:59 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 2:55:59 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 2:56:09 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 2:56:09 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 2:56:19 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 2:56:19 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 2:56:29 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 2:56:29 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 2:56:39 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 2:56:39 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 2:56:49 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 2:56:49 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 2:56:59 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 2:56:59 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 2:57:09 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 2:57:09 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 2:57:19 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 2:57:19 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 2:57:29 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 2:57:29 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 2:57:39 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 2:57:39 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 2:57:49 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 2:57:49 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 2:57:59 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 2:57:59 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 2:58:09 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 2:58:09 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 2:58:19 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 2:58:19 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 2:58:29 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 2:58:29 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 2:58:39 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 2:58:39 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 2:58:49 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 2:58:49 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 2:58:59 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 2:58:59 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 2:59:09 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 2:59:09 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 2:59:19 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 2:59:19 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 2:59:29 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 2:59:29 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 2:59:39 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 2:59:39 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 2:59:49 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 2:59:49 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 2:59:59 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 2:59:59 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 3:00:09 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 3:00:09 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 3:00:19 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 3:00:19 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 3:00:29 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 3:00:29 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 3:00:39 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 3:00:39 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 3:00:49 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 3:00:49 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 3:00:59 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 3:00:59 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 3:01:09 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 3:01:09 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 3:01:19 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 3:01:19 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 3:01:29 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 3:01:29 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 3:01:39 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 3:01:39 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 3:01:49 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 3:01:49 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 3:01:59 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 3:01:59 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 3:02:09 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 3:02:09 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 3:02:19 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 3:02:19 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 3:02:29 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 3:02:29 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 3:02:39 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 3:02:39 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 3:02:49 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 3:02:49 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 3:02:59 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 3:02:59 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 3:03:09 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 3:03:09 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 3:03:19 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 3:03:19 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 3:03:29 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 3:03:29 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 3:03:39 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 3:03:39 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 3:03:49 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 3:03:49 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 3:03:59 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 3:03:59 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 3:04:09 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 3:04:09 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 3:04:19 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 3:04:19 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 3:04:29 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 3:04:29 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 3:04:39 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 3:04:39 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 3:04:49 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 3:04:49 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 3:04:59 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 3:04:59 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 3:05:09 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 3:05:09 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 3:05:19 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 3:05:19 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 3:05:29 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 3:05:29 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 3:05:39 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 3:05:39 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 3:05:49 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 3:05:49 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 3:05:59 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 3:05:59 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 3:06:09 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 3:06:09 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 3:06:19 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 3:06:19 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 3:06:29 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 3:06:29 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 3:06:39 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 3:06:39 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 3:06:49 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 3:06:49 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 3:06:59 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 3:06:59 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 3:07:09 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 3:07:09 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 3:07:19 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 3:07:19 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 3:07:29 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 3:07:29 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 3:07:39 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 3:07:39 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 3:07:49 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 3:07:49 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 3:07:59 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 3:07:59 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 3:08:09 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 3:08:10 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 3:08:20 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 3:08:20 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 3:08:30 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 3:08:30 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 3:08:40 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 3:08:40 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 3:08:50 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 3:08:50 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 3:09:00 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 3:09:00 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 3:09:10 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 3:09:10 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 3:09:20 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 3:09:20 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 3:09:30 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 3:09:30 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 3:09:40 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 3:09:40 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 3:09:50 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 3:09:50 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 3:10:00 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 3:10:00 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 3:10:10 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 3:10:10 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 3:10:20 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 3:10:20 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 3:10:30 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 3:10:30 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 3:10:40 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 3:10:40 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 3:10:50 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 3:10:50 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 3:11:00 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 3:11:00 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 3:11:10 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 3:11:10 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 3:11:20 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 3:11:20 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
+okt. 16, 2024 3:11:30 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+okt. 16, 2024 3:11:30 P.M. hudson.remoting.Launcher$CuiListener status
+INFO: Could not locate server among [http://localhost:8080/]; waiting 10 seconds before retry
+java.io.IOException: http://localhost:8080/tcpSlaveAgentListener/ is invalid: 404 Not Found
+	at org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver.resolve(JnlpAgentEndpointResolver.java:229)
+	at hudson.remoting.Engine.innerRun(Engine.java:829)
+	at hudson.remoting.Engine.run(Engine.java:574)
+
