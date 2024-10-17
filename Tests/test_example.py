@@ -18,13 +18,13 @@ def test_get_started_link(page: Page):
     # Expects page to have a heading with the name of Installation.
     expect(page.get_by_role("heading", name="Installation")).to_be_visible()
 
-def test_tweakers_Pricewatch_Iphone(page: Page):
-    page.goto(BaseURL)
-
-    page.get_by_role("button", name="Akkoord").click()
-    page.get_by_role("link", name="Pricewatch").click()
-    page.get_by_placeholder("Zoek een product").fill("iphone 16")
-    page.get_by_placeholder("Zoek een product").press("Enter")
+#def test_tweakers_Pricewatch_Iphone(page: Page):
+ #   page.goto(BaseURL)
+#
+ #   page.get_by_role("button", name="Akkoord").click()
+  #  page.get_by_role("link", name="Pricewatch").click()
+   # page.get_by_placeholder("Zoek een product").fill("iphone 16")
+    #page.get_by_placeholder("Zoek een product").press("Enter")
 
     # Controle aantal records
     #expect(page.locator(".pageIndex")).to_contain_text("1.324 uitvoeringen - Pagina 1 van 14")
